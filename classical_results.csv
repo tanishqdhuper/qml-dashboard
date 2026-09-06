@@ -1,0 +1,7 @@
+model,pca_applied,features,encoding,accuracy,precision,recall,f1_score
+baseline LR,no,114,OHE,0.96,0.85,0.98,0.91
+baseline XGBoost,no,114,OHE,0.98,0.96,0.94,0.95
+baseline Random forest,no,114,OHE,0.98,0.95,0.95,0.95
+Logistic Regression,yes,8,OHE,0.92,0.74,0.95,0.84
+Random Forest,yes,8,OHE,0.98,0.95,0.95,0.95
+Xgboost,yes,8,OHE,0.98,0.94,0.95,0.95

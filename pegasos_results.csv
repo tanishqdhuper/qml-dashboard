@@ -1,0 +1,8 @@
+qml_model,pca_applied,features,c,subset_size,num_steps,encoding,accuracy,precision,recall,f1_score
+PegasosQSVC,yes,8,0.1,200,200,OHE,0.78,1.0,0.55,0.71
+PegasosQSVC,yes,8,1.0,200,200,OHE,0.7,1.0,0.4,0.57
+PegasosQSVC,yes,8,10.0,200,200,OHE,0.75,1.0,0.5,0.67
+PegasosQSVC,yes,8,100.0,200,200,OHE,0.93,1.0,0.85,0.92
+PegasosQSVC,yes,8,100.0,500,200,OHE,0.9,0.93,0.86,0.9
+PegasosQSVC,yes,8,100.0,1000,200,OHE,0.87,1.0,0.74,0.85
+PegasosQSVC,yes,8,100.0,1000,500,OHE,0.89,1.0,0.78,0.88
